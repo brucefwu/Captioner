@@ -13,7 +13,7 @@ Requirements
 Installation
 ---
 - *Preferred method:* Use the git CLI to clone this repository onto your mac. Then unzip Captioner.
-- *Alternative method:* Download this repository as a zip file. Unzip the folder, then unzip Captioner. When you run the app for the first time, Apple will block it. After that happens, go to System Preferences -> Security & Privacy and click Open Anyway.
+- *Alternative method:* Download this repository as a zip file. Unzip the folder, then unzip Captioner.
 
 Notes
 ---
